@@ -7,9 +7,9 @@ https://templatemo.com/tm-531-reflux
 */
 
 @import url(fontawesome.css);
-@import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #page-wraper {
@@ -40,9 +40,7 @@ a:hover {
 
 p {
   font-size: 22px;
-  word-spacing: 10px;
-  letter-spacing: 5px;
-  line-height: 24px;
+
   color: #fff;
 }
 
@@ -224,7 +222,7 @@ html {
   left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #a43f49;
+  background-color: #111693;
   box-sizing: border-box;
   height: 100vh;
   max-height: 100vh !important;
